@@ -1,6 +1,6 @@
 # Durga ICM Code Challenge 
  Durga Code Challenge
-Steps invloved in acheving the code:
+Steps invloved in acheving the Result:
  1. Loaded the file
  2. Read each line of the file
  3. Split the line between 2 players
