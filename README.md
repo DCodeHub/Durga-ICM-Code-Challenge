@@ -10,7 +10,7 @@ Steps towards acheving the Result:
  7. Compared and picked the highest rank to decide the winner.
  8. IF the ranks were equal/tied between the players, as a result of step 6. Pick the highest values between the players to decide the winner.
  9. Store the winner count under the player's list.
- 10.Receive the stored count and display in Console.
+ 10. Receive the stored count and display in Console.
  
  Steps to execute the file.
  1. Download code from the git hub.
