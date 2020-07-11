@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\DDProjects\\ICM\\DDPokerHands\\DDPokerHands\\DDPokerHands.csproj": {}
+  },
+  "projects": {
+    "C:\\DDProjects\\ICM\\DDPokerHands\\DDPokerHands\\DDPokerHands.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DDProjects\\ICM\\DDPokerHands\\DDPokerHands\\DDPokerHands.csproj",
+        "projectName": "DDPokerHands",
+        "projectPath": "C:\\DDProjects\\ICM\\DDPokerHands\\DDPokerHands\\DDPokerHands.csproj",
+        "packagesPath": "C:\\Users\\shash\\.nuget\\packages\\",
+        "outputPath": "C:\\DDProjects\\ICM\\DDPokerHands\\DDPokerHands\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\shash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.11.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
